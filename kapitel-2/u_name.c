@@ -4,6 +4,8 @@
  *  Guten Morgen.
  *  Mein Name ist Claus Clever.
  * Kommentieren Sie jede Zeile innerhaln der Funktion main.c.
+ * 
+ * Seite 29
  */
 #include <stdio.h>
 
