@@ -23,6 +23,7 @@ Dieses Repository enthält:
 
 - **Lösungen zu den Übungsaufgaben**: Jede Aufgabe ist in einem eigenen Verzeichnis organisiert.
 - **Beispiele aus dem Buch**: Zusätzliche Beispiele zur Vertiefung der Inhalte.
+- **Tipps aus dem Buch**: Bei jedem Codebeispiel und Übungsaufgabe sind Tipps und Hinweise aus dem Buch vermerkt.
 
 ## Voraussetzungen
 
@@ -34,7 +35,7 @@ Dieses Repository enthält:
 
 1. **Repository klonen**: 
     ```bash
-    git clone https://github.com/dein-benutzername/einstieg-in-c.git
+    git clone https://github.com/reztib/einstieg-in-c.git
     ```
 2. **Zum gewünschten Verzeichnis navigieren**
     ```bash
